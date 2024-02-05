@@ -50,13 +50,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙶𝙷𝙰𝚉𝙰𝙽𝙵𝙰𝚁_𝙰𝙽𝚂𝙰𝚁𝙸'
+global.botname = ''꧁•⊹٭𝙽𝚘 𝚙𝚖 ᭭𖤍 '
 global.premium = 'true'
-global.packname = '𝙶𝙷𝙰𝚉𝙰𝙽𝙵𝙰𝚁_𝙰𝙽𝚂𝙰𝚁𝙸' 
-global.author = '𝙶𝙷𝙰𝚉𝙰𝙽𝙵𝙰𝚁_𝙰𝙽𝚂𝙰𝚁𝙸' 
+global.packname = ''꧁•⊹٭𝙽𝚘 𝚙m' 
+global.author = ''꧁•⊹٭𝙽𝚘 𝚙𝚖 😡' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/CtbNnBxxTcUCKEmg3szC9H'
+global.dygp = 'https://chat.whatsapp.com/LqaP4zgzZC49ymhh26LT6C'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@𝙶𝙷𝙰𝚉𝙰𝙽𝙵𝙰𝚁_𝙰𝙽𝚂𝙰𝚁𝙸'
 global.fgpyp = 'https://youtube.com/@Asliguru'
